@@ -47,5 +47,5 @@ To run this project:
    ```bash
    pip install numpy matplotlib scipy
    ```
-2. Open the Jupyter/Colab [notebook](/notebook/Variational_Discrete_Regularization_for_Stroke_Smoothing%20(2).ipynb).
+2. Open the Jupyter/Colab [notebook](/notebook/Stroke_Smoothing.ipynb).
 3. Run all cells sequentially to generate the data, apply smoothing, fit splines, and visualize the results.
